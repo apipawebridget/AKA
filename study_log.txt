@@ -1,0 +1,4 @@
+Maths,Differention,Monday,45
+programming,functions,Thursday,30
+Maths,Sets,Friday,120
+Maths,Algebra,Tuesday,10
